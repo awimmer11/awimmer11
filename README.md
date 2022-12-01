@@ -7,3 +7,7 @@ Currently Learning
 - Diving deeper into some advanced CSS topics.
 - How not to suck at coding.
 - Git.
+
+Projects
+--------
+My First Responsive Website: https://github.com/awimmer11/Responsive-Website
